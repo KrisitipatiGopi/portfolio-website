@@ -27,9 +27,8 @@ const Contact = () => {
       body: json
     }).then((res) => res.json());
 
-    
       alert(res.message);
-    
+      
   };
 
 

@@ -1,40 +1,34 @@
-import project1_img from '../assets/project_1.svg'
-import project2_img from '../assets/project_2.svg'
-import project3_img from '../assets/project_3.svg'
-import project4_img from '../assets/project_4.svg'
-import project5_img from '../assets/project_5.svg'
-import project6_img from '../assets/project_6.svg'
+
+import s1 from "../assets/s1.png"
+import s2 from "../assets/s2.png"
+import s3 from "../assets/s3.png"
+import s4 from "../assets/s4.png"
+
 
 const mywork_data = [
     {
         w_no:1,
         w_name:"Web design",
-        w_img:project1_img
+        w_img:s1,
+        link:"https://krisitipatigopi.github.io/Food-app/"
     },
     {
         w_no:2,
         w_name:"Web design",
-        w_img:project2_img
+        w_img:s2,
+        link:"https://krisitipatigopi.github.io/Forever/"
     },
     {
         w_no:3,
         w_name:"Web design",
-        w_img:project3_img
+        w_img:s3,
+        link:"https://krisitipatigopi.github.io/NetflixGPT/"
     },
     {
         w_no:4,
         w_name:"Web design",
-        w_img:project4_img
-    },
-    {
-        w_no:5,
-        w_name:"Web design",
-        w_img:project5_img
-    },
-    {
-        w_no:6,
-        w_name:"Web design",
-        w_img:project6_img
+        w_img:s4,
+        link:"https://krisitipatigopi.github.io/Gemini-AI/"
     },
 ]
  
